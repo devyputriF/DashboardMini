@@ -1,0 +1,105 @@
+﻿@model Dashboardmini.ViewModels.DashboardViewModel;
+
+
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<div class="container">
+    <h3>List Department</h3>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Department Name</th>
+            <th scope="col">Status</th>
+            <th scope="col">Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.LeaveRequests)
+        {
+            <tr>
+
+                <th scope="row">@item.LeaveRequestId</th>
+                <td>@item.EmployeeFullName</td>
+                <td>@item.LeaveType</td>
+                <td>@item.LeaveStatus</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card position-relative" style="height: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Total Employees</h5>
+                    <p class="card-text">@Model.TotalEmployees</p>
+                    <a asp-action="DetailEmployees" class="stretched-link" aria-label="View details"></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card position-relative" style="height:10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Total Leave Requests</h5>
+                    <p class="card-text">@Model.TotalLeaveRequests</p>
+                    <a asp-action="Details" class="stretched-link" aria-label="View details"></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card position-relative" style="height: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Approved Leave Requests</h5>
+                    <p class="card-text">@Model.ApprovedLeaveRequests</p>
+                    <a asp-action="Details" class="stretched-link" aria-label="View details"></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card position-relative" style="height: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Pending Leave Requests</h5>
+                    <p class="card-text">@Model.PendingLeaveRequests</p>
+                    <a asp-action="Details" class="stretched-link" aria-label="View details"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <h3>Leave Requests</h3>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Employee FullName</th>
+                <th scope="col">Leave Type</th>
+                <th scope="col">Leave Status</th>
+                <th scope="col">Created Date</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.LeaveRequests)
+            {
+                <tr>
+
+                    <th scope="row">@item.LeaveRequestId</th>
+                    <td>@item.EmployeeFullName</td>
+                    <td>@item.LeaveType</td>
+                    <td>@item.LeaveStatus</td>
+                    <td>@item.CreatedDate.ToString("yyyy-MM-dd")</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

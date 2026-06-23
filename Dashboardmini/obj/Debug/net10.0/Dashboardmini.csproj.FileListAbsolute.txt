@@ -1,0 +1,674 @@
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.runtime.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.endpoints.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.exe
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.deps.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.runtimeconfig.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.pdb
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Humanizer.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.AssemblyReference.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfoInputs.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfo.cs
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.CoreCompileInputs.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cs
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\bundle\Dashboardmini.styles.css
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\projectbundle\Dashboardmini.bundle.scp.css
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\n1yeuev97z-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\v3rwxu9s0q-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\2ffav3ggyg-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ax2yn1y9d1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bxriydb10i-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\yjpt3zkdmz-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4ni1hsly8w-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cfj2qq4gm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\lyma0w3cmk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xaoie3gkme-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\gbgke0as3m-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\6wn4co7d7q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ptfsuxe0c2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\celzi9mm57-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ms44uq8vyf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0suunvuu0c-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bzgq7qiiv4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\g5nq22h3lm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ycn180b06j-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hecw3fw8oa-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0wuhky5g98-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3otszyds3e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\z3eabj4ytu-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hdo6vnwgan-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ywio58m7er-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\rirjd6sodu-{0}-06098lyss8-06098lyss8.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\prc92888rm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\i1y7gor4he-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\buz05rjwq3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\386nu3urwq-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3teuv9szk8-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\tfdy8os64x-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9egrkf2ryt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wtf3339z80-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\q24b06nj47-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\nbsdty4ojv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bwfz8aspzg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\340ro0cfdu-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xdbs58evuc-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bvxf18x7vc-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\o85aisbdg2-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\sde34gz5dp-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xftiglbmp3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3lh1bjjr91-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wrlbrhv5sq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fo77dqrdn8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4uwu9oher6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\a54sy2fntp-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\enwbt09eei-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ubacfxv2qp-{0}-356vix0kms-356vix0kms.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fvern0a9p2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7dcett8puj-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\09a4gukd6g-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ggaf5nragi-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\98a1h9x8vm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ux7abuyn3v-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\qsiuwmq0m5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hzxaphm93e-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ymep0oq5k5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9y9n8odovv-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\162v9s6r7i-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\uxcfb1fz09-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cnp5erbwn-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fos7w1sx27-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboar.22F12806.Up2Date
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\refint\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.pdb
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.genruntimeconfig.cache
+C:\Users\devyf\Documents\Devy's Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\ref\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.endpoints.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.runtime.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.exe
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.deps.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.runtimeconfig.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.pdb
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Humanizer.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.AssemblyReference.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfoInputs.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfo.cs
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.CoreCompileInputs.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cs
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\bundle\Dashboardmini.styles.css
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\projectbundle\Dashboardmini.bundle.scp.css
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\n1yeuev97z-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\v3rwxu9s0q-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\2ffav3ggyg-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ax2yn1y9d1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bxriydb10i-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\yjpt3zkdmz-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4ni1hsly8w-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cfj2qq4gm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\lyma0w3cmk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xaoie3gkme-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\gbgke0as3m-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\6wn4co7d7q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ptfsuxe0c2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\celzi9mm57-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ms44uq8vyf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0suunvuu0c-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bzgq7qiiv4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\g5nq22h3lm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ycn180b06j-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hecw3fw8oa-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0wuhky5g98-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3otszyds3e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\z3eabj4ytu-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hdo6vnwgan-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ywio58m7er-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\rirjd6sodu-{0}-06098lyss8-06098lyss8.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\prc92888rm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\i1y7gor4he-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\buz05rjwq3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\386nu3urwq-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3teuv9szk8-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\tfdy8os64x-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9egrkf2ryt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wtf3339z80-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\q24b06nj47-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\nbsdty4ojv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bwfz8aspzg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\340ro0cfdu-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xdbs58evuc-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bvxf18x7vc-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\o85aisbdg2-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\sde34gz5dp-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xftiglbmp3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3lh1bjjr91-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wrlbrhv5sq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fo77dqrdn8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4uwu9oher6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\a54sy2fntp-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\enwbt09eei-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ubacfxv2qp-{0}-356vix0kms-356vix0kms.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fvern0a9p2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7dcett8puj-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\09a4gukd6g-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ggaf5nragi-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\98a1h9x8vm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ux7abuyn3v-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\qsiuwmq0m5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hzxaphm93e-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ymep0oq5k5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9y9n8odovv-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\162v9s6r7i-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\uxcfb1fz09-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cnp5erbwn-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fos7w1sx27-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboar.22F12806.Up2Date
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\refint\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.pdb
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.genruntimeconfig.cache
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\ref\Dashboardmini.dll
+C:\Users\devyf\Documents\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.Development.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\appsettings.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.runtime.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.staticwebassets.endpoints.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.exe
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.deps.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.runtimeconfig.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Dashboardmini.pdb
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Core.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Azure.Identity.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Humanizer.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.ClientModel.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.CodeDom.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.AssemblyReference.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfoInputs.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.AssemblyInfo.cs
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.csproj.CoreCompileInputs.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.MvcApplicationPartsAssemblyInfo.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.RazorAssemblyInfo.cs
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\bundle\Dashboardmini.styles.css
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\scopedcss\projectbundle\Dashboardmini.bundle.scp.css
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\n1yeuev97z-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\v3rwxu9s0q-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\2ffav3ggyg-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ax2yn1y9d1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bxriydb10i-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\yjpt3zkdmz-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4ni1hsly8w-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cfj2qq4gm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\lyma0w3cmk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xaoie3gkme-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\gbgke0as3m-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\6wn4co7d7q-{0}-ub07r2b239-ub07r2b239.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ptfsuxe0c2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\celzi9mm57-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ms44uq8vyf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0suunvuu0c-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bzgq7qiiv4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\g5nq22h3lm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ycn180b06j-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hecw3fw8oa-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\0wuhky5g98-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3otszyds3e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\z3eabj4ytu-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hdo6vnwgan-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ywio58m7er-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\rirjd6sodu-{0}-06098lyss8-06098lyss8.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\prc92888rm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\i1y7gor4he-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\buz05rjwq3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\386nu3urwq-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3teuv9szk8-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\tfdy8os64x-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9egrkf2ryt-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wtf3339z80-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\q24b06nj47-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\nbsdty4ojv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bwfz8aspzg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\340ro0cfdu-{0}-493y06b0oq-493y06b0oq.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xdbs58evuc-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\bvxf18x7vc-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\o85aisbdg2-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\sde34gz5dp-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\xftiglbmp3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\3lh1bjjr91-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\wrlbrhv5sq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fo77dqrdn8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\4uwu9oher6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\a54sy2fntp-{0}-47otxtyo56-47otxtyo56.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\enwbt09eei-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ubacfxv2qp-{0}-356vix0kms-356vix0kms.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fvern0a9p2-{0}-83jwlth58m-83jwlth58m.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7dcett8puj-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\09a4gukd6g-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ggaf5nragi-{0}-ag7o75518u-ag7o75518u.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\98a1h9x8vm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ux7abuyn3v-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\qsiuwmq0m5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\hzxaphm93e-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\ymep0oq5k5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\9y9n8odovv-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\162v9s6r7i-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\uxcfb1fz09-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\7cnp5erbwn-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\compressed\fos7w1sx27-{0}-eqzp7qmi8x-eqzp7qmi8x.gz
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.development.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\swae.build.ex.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboar.22F12806.Up2Date
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\refint\Dashboardmini.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.pdb
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.genruntimeconfig.cache
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\ref\Dashboardmini.dll
