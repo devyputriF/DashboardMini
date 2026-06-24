@@ -1,4 +1,6 @@
-﻿namespace Dashboardmini.Models
+﻿using Dashboardmini.Enums;
+
+namespace Dashboardmini.Models
 {
     public class Employee
     {
@@ -16,6 +18,7 @@
         public DateTime CreatedDate { get; set; }
         public DateTime? UpdatedDate { get; set; }
 
+        public UserRole Role { get; set; }
         public Employee? Manager { get; set; }
         public Department Department { get; set; } = null!;
         public User User { get; set; } = null!;
