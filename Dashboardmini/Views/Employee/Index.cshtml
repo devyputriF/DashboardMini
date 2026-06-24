@@ -18,8 +18,15 @@
             {
                 <tr>
                     <td>@employee.FullName</td>
-                    <td>@employee.DepartmentName</td>
-                    <td>@employee.Status</td>
+                    <td>@employee.Department.DepartmentName</td>
+                    @if(@employee.IsActive)
+                    {
+                    <td>Active</td>
+                    }
+                    else
+                    {
+                    <td>Inactive</td>
+                    }
                     <td>
                         <a asp-action="Edit" asp-route-id="@employee.EmployeeId" class="btn btn-sm btn-warning">Edit</a>
                         <form asp-action="Delete" asp-route-id="@employee.EmployeeId" method="post" style="display: inline;">

@@ -9,6 +9,7 @@
         <thead>
             <tr>
                 <th>Department Name</th>
+                <th>Total Employee</th>
                 <th>Status</th>
                 <th>Actions</th>
             </tr>
@@ -18,7 +19,15 @@
             {
                 <tr>
                     <td>@department.DepartmentName</td>
-                    <td>@department.Status</td>
+                    <td>@department.Employees.Count</td>
+                    if(@department.Status)
+                    {
+                        <td>Active</td>
+                    }
+                    else
+                    {
+                        <td>Inactive</td>
+                    }
                     <td>
                         <a asp-action="Edit" asp-route-id="@department.DepartmentId" class="btn btn-sm btn-warning">Edit</a>
                         <form asp-action="Delete" asp-route-id="@department.DepartmentId" method="post" style="display: inline;">

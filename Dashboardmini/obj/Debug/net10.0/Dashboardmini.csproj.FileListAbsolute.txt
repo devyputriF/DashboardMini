@@ -672,3 +672,4 @@ D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\refint\Dashboardmi
 D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.pdb
 D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.genruntimeconfig.cache
 D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\ref\Dashboardmini.dll
+D:\Devy_Project\Dashboardmini\Dashboardmini\obj\Debug\net10.0\Dashboardmini.sourcelink.json
