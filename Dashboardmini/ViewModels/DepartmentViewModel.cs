@@ -6,5 +6,7 @@
         public string DepartmentName { get; set; }
         public string Status { get; set; }
 
+        public int CountEmployees { get; set; } = 0;
+
     }
 }
