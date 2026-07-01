@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dashboardmini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7b698ba2b95d60794f541aaaa71c511b775970")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3530fc870ae36d1bc696740f91ab4a1f9d932c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dashboardmini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dashboardmini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
