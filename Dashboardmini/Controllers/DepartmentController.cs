@@ -21,7 +21,8 @@ namespace Dashboardmini.Controllers
             {
                 DepartmentId = d.DepartmentId,
                 DepartmentName = d.DepartmentName,
-                Status = d.IsActive ? "Active" : "Inactive"
+                Status = d.IsActive ? "Active" : "Inactive",
+                CountEmployees = _context.Employees.Count(e => e.DepartmentId == d.DepartmentId)
             }).ToList();
             return View(departments);
         }
