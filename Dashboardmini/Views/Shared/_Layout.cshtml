@@ -14,15 +14,17 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Dashboardmini.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg shadow-sm custom-navbar">
 
             <div class="container-fluid">
 
-                <a class="navbar-brand" href="#">
-                    Employee Management
+                <a class="navbar-brand fw-bold text-primary" asp-controller="Dashboard" asp-action="Index">
+                    <i class="bi bi-building"></i>
+                    EmployeeMS
                 </a>
 
                 <button class="navbar-toggler"
@@ -33,100 +35,108 @@
 
                 <div class="collapse navbar-collapse" id="navbarNav">
 
-                    <ul class="navbar-nav me-auto">
+                    <ul class="navbar-nav ms-4">
 
                         <li class="nav-item">
-                            <a class="nav-link"
-                               asp-controller="Dashboard"
-                               asp-action="Index">
+                            <a class="nav-link" asp-controller="Dashboard" asp-action="Index">
                                 Dashboard
                             </a>
                         </li>
 
-                        @if (role == (int)UserRole.Staff)
+                        @if (role == 1)
                         {
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Profile"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="Profile" asp-action="Index">
                                     My Profile
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="LeaveRequest"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="LeaveRequest" asp-action="Index">
                                     Leave Request
                                 </a>
                             </li>
                         }
 
-                        @if (role == (int)UserRole.Manager)
+                        @if (role == 2)
                         {
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Employee"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="Employee" asp-action="Index">
                                     Employees
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Approval"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="Approval" asp-action="Index">
                                     Approval
                                 </a>
                             </li>
                         }
 
-                        @if (role == (int)UserRole.Admin)
+                        @if (role == 3)
                         {
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Employee"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="Employee" asp-action="Index">
                                     Employees
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Department"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="Department" asp-action="Index">
                                     Department
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="User"
-                                   asp-action="Index">
+                                <a class="nav-link" asp-controller="User" asp-action="Index">
                                     Users
-                                </a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link"
-                                   asp-controller="Role"
-                                   asp-action="Index">
-                                    Roles
                                 </a>
                             </li>
                         }
 
                     </ul>
 
-                    <span class="navbar-text me-3">
-                        @Context.Session.GetString("Username")
-                    </span>
+                    <ul class="navbar-nav ms-auto align-items-center">
 
-                    <a asp-controller="Auth"
-                       asp-action="Logout"
-                       class="btn btn-outline-light">
-                        Logout
-                    </a>
+                        <li class="nav-item dropdown">
+
+                            <a class="nav-link dropdown-toggle d-flex align-items-center"
+                               href="#"
+                               role="button"
+                               data-bs-toggle="dropdown">
+
+                                <img src="https://ui-avatars.com/api/?name=@Context.Session.GetString("Username")"
+                                     class="rounded-circle me-2"
+                                     width="35"
+                                     height="35" />
+
+                                <span>@Context.Session.GetString("Username")</span>
+
+                            </a>
+
+                            <ul class="dropdown-menu dropdown-menu-end">
+
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Profile" asp-action="Index">
+                                        My Profile
+                                    </a>
+                                </li>
+
+                                <li><hr class="dropdown-divider"></li>
+
+                                <li>
+                                    <a class="dropdown-item text-danger"
+                                       asp-controller="Auth"
+                                       asp-action="Logout">
+                                        Logout
+                                    </a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+                    </ul>
 
                 </div>
 

@@ -7,32 +7,56 @@
       "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\services\\verifyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\services\\verifyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\viewmodels\\leaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\viewmodels\\leaverequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|solutionrelative:dashboardmini\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5D1BFB4-B687-B260-3E3C-4393D5DA2CDE}|Dashboardmini\\Dashboardmini.csproj|d:\\devy_project\\dashboardmini\\dashboardmini\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,63 +70,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Dashboardmini\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Dashboardmini\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T03:13:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Dashboardmini\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T03:09:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dashboardmini\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Dashboardmini\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T02:58:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequestViewModel.cs",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\ViewModels\\LeaveRequestViewModel.cs",
+              "RelativeDocumentMoniker": "Dashboardmini\\ViewModels\\LeaveRequestViewModel.cs",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\ViewModels\\LeaveRequestViewModel.cs",
+              "RelativeToolTip": "Dashboardmini\\ViewModels\\LeaveRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T02:52:21.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dashboardmini\\Views\\LeaveRequest\\Index.cshtml",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeToolTip": "Dashboardmini\\Views\\LeaveRequest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T02:50:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\LeaveRequestController.cs",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Dashboardmini\\Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T02:24:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Dashboardmini\\Models\\LeaveRequest.cs",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Dashboardmini\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:03:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Dashboardmini\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:03:17.675Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Dashboardmini\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Dashboardmini\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dashboardmini\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAQwI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-01T04:17:10.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Program.cs",
               "RelativeDocumentMoniker": "Dashboardmini\\Program.cs",
               "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Program.cs",
               "RelativeToolTip": "Dashboardmini\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T04:06:04.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VerifyAccount.cs",
-              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Services\\VerifyAccount.cs",
-              "RelativeDocumentMoniker": "Dashboardmini\\Services\\VerifyAccount.cs",
-              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Services\\VerifyAccount.cs",
-              "RelativeToolTip": "Dashboardmini\\Services\\VerifyAccount.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T03:58:30.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Dashboardmini\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T03:33:37.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "Dashboardmini\\Enums\\UserRole.cs",
@@ -115,33 +216,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Dashboardmini\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T03:28:35.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Dashboardmini\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Dashboardmini\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T03:28:27.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Dashboardmini\\Views\\Employee\\Index.cshtml",
@@ -149,18 +250,17 @@
               "RelativeToolTip": "Dashboardmini\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T03:27:51.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T03:27:51.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "Dashboardmini\\Views\\Department\\Index.cshtml",
               "ToolTip": "D:\\Devy_Project\\Dashboardmini\\Dashboardmini\\Views\\Department\\Index.cshtml",
               "RelativeToolTip": "Dashboardmini\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-01T03:27:27.273Z",
               "EditorCaption": ""

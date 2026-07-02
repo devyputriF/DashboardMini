@@ -1,0 +1,135 @@
+﻿@model IEnumerable<Dashboardmini.ViewModels.LeaveRequestViewModel>
+@using Dashboardmini.Enums
+
+@{
+    ViewData["Title"] = "Leave Request";
+       // Layout = null;
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+
+        <div>
+            <h2 class="fw-bold">Leave Request</h2>
+            <p class="text-muted">Manage your leave requests.</p>
+        </div>
+
+        <a asp-action="Create" class="btn btn-primary">
+            + Request Leave
+        </a>
+
+    </div>
+
+    <div class="card shadow-sm border-0 mb-4">
+
+        <div class="card-body">
+
+            <div class="row text-center">
+
+                <div class="col-md-4">
+                    <h6 class="text-muted">Annual Leave</h6>
+                    <h3 class="text-primary">8 Days</h3>
+                </div>
+
+                <div class="col-md-4">
+                    <h6 class="text-muted">Pending</h6>
+                    <h3 class="text-warning">
+                        @Model.Count(x => x.LeaveStatus == LeaveStatus.Pending)
+                    </h3>
+                </div>
+
+                <div class="col-md-4">
+                    <h6 class="text-muted">Approved</h6>
+                    <h3 class="text-success">
+                        @Model.Count(x => x.LeaveStatus == LeaveStatus.Approved)
+                    </h3>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="card shadow-sm border-0">
+
+        <div class="card-body">
+
+            <table class="table table-hover align-middle">
+
+                <thead>
+
+                    <tr>
+                        <th>Type</th>
+                        <th>Start</th>
+                        <th>End</th>
+                        <th>Days</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @foreach(var item in Model)
+                    {
+                        <tr>
+
+                            <td>@item.LeaveType</td>
+
+                            <td>@item.CreatedDate.ToShortDateString()</td>
+
+                            <td>@item.EndDate.ToShortDateString()</td>
+
+                            <td>@item.TotalDays</td>
+
+                            <td>
+
+                                @if(item.LeaveStatus == LeaveStatus.Pending)
+                                {
+                                    <span class="badge bg-warning">
+                                        Pending
+                                    </span>
+                                }
+
+                                @if(item.LeaveStatus == LeaveStatus.Approved)
+                                {
+                                    <span class="badge bg-success">
+                                        Approved
+                                    </span>
+                                }
+
+                                @if(item.LeaveStatus == LeaveStatus.Rejected)
+                                {
+                                    <span class="badge bg-danger">
+                                        Rejected
+                                    </span>
+                                }
+
+                            </td>
+
+                            <td>
+
+                                <a asp-action="Details"
+                                   asp-route-id="@item.LeaveRequestId"
+                                   class="btn btn-outline-primary btn-sm">
+
+                                    Detail
+
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
